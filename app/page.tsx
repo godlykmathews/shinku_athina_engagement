@@ -106,7 +106,7 @@ export default function EngagementPage() {
         <Card className="max-w-4xl mx-auto mb-12 p-8 bg-white/80 backdrop-blur-sm border-rose-200 shadow-xl animate-slide-up">
           <div className="text-center mb-8">
             <h2 className="text-3xl font-serif text-rose-600 mb-2">Countdown to Our Special Day</h2>
-            <p className="text-rose-500">October 25, 2025 • 5:00 PM</p>
+            <p className="text-rose-500">October 25, 2025 • 5:30 PM</p>
           </div>
 
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4 text-center">
@@ -137,10 +137,10 @@ export default function EngagementPage() {
               <Calendar className="w-12 h-12 text-rose-400 mx-auto mb-4" />
               <h3 className="text-2xl font-serif text-rose-600 mb-4">When</h3>
               <div className="space-y-2 text-gray-700">
-                <p className="text-xl font-semibold">October 22, 2025</p>
+                <p className="text-xl font-semibold">October 25, 2025</p>
                 <div className="flex items-center justify-center gap-2">
                   <Clock className="w-4 h-4 text-rose-400" />
-                  <p className="text-lg">5:00 PM</p>
+                  <p className="text-lg">5:30 PM</p>
                 </div>
               </div>
             </div>
@@ -156,9 +156,9 @@ export default function EngagementPage() {
               <h3 className="text-2xl font-serif text-rose-600 mb-4">Where</h3>
               <div className="space-y-2 text-gray-700">
                 <p className="text-lg font-semibold">St. Gregorious Knanaya Church</p>
-                <p className="text-sm">West Othera, Pathanamthitta</p>
-                <p className="text-sm">Othera, Otherawest</p>
-                <p className="text-sm">Kerala, India - 689551</p>
+                <p className="text-sm">West Othera, Thiruvalla</p>
+                <p className="text-sm">Pathanamthitta, Kerala</p>
+                <p className="text-sm">India - 689551</p>
                 <Button asChild className="mt-4 bg-rose-500 hover:bg-rose-600 text-white">
                   <a
                     href="https://maps.app.goo.gl/aFuATgJZoqd1Cez39"

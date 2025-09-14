@@ -17,6 +17,14 @@ export const metadata: Metadata = {
   title: "Athina & Shinku - Engagement Announcement",
   description:
     "With joy in our hearts, we invite you to celebrate the engagement of Athina and Shinku. Join us for an evening of love, laughter, and cherished moments as we begin our journey together. Save the date: October 25, 2025.",
+  icons: {
+    icon: [
+      {
+        url: "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'><text x='0' y='14'>💝</text></svg>",
+        type: "image/svg+xml",
+      },
+    ],
+  },
   openGraph: {
     title: "Athina & Shinku - Engagement Announcement",
     description:

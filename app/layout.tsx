@@ -15,8 +15,8 @@ const playfair = Playfair_Display({
 
 export const metadata: Metadata = {
   title: "Athina & Shinku - Engagement Announcement",
-  description: "Join us in celebrating the engagement of Athina and Shinku on October 22, 2025",
-  generator: "v0.app",
+  description: "Join us in celebrating the engagement of Athina and Shinku on October 25, 2025",
+  generator: "Godly",
 }
 
 export default function RootLayout({

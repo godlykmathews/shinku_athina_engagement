@@ -211,8 +211,17 @@ export default function EngagementPage() {
 
         {/* Footer */}
         <div className="text-center mt-12 animate-fade-in" style={{ animationDelay: "0.8s" }}>
-          <p className="text-rose-500 font-light">With love and excitement,</p>
-          <p className="text-2xl font-serif text-rose-600 mt-2">Athina & Shinku</p>
+          <p className="text-rose-500 font-light">
+            Made with ❤️ by{" "}
+            <a
+              href="https://linkedin.com/in/godly-k-mathews"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="hover:text-gray-700 font-medium inline-flex items-center gap-1"
+            >
+              Godly K Mathews
+            </a>
+          </p>
         </div>
       </div>
     </div>
